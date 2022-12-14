@@ -8,8 +8,14 @@ li {
     display: inline-block;
     color: #FFFFFF;
     width: 200px;
+    text-align: center;
+    padding-top: 15px;
 }
 
 nav {
     background-color: #000000;
+    height: 50px;
+}
+.navigation{
+    text-align: center;
 }
