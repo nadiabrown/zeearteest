@@ -19,3 +19,10 @@ nav {
 .navigation{
     text-align: center;
 }
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+    display: block;
+    padding-top: 25px;
+}
