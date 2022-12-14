@@ -1,3 +1,7 @@
-li{
+li {
     display: inline-block;
+}
+
+nav {
+    background-color: #000000;
 }
