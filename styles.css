@@ -22,12 +22,12 @@ h1 {
     text-align: center;
     font-size: 26px;
     display: block;
-    padding-top: 25px;
 }
 
 .navigation .logo {
     color:#FFFFFF;
     display: inline-block;
     float: left;
-    text-align: center;
+    padding: 9px 100px 5px 100px;
+    height: 16px;
 }
