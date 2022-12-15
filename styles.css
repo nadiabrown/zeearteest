@@ -9,10 +9,10 @@
     width: 100px;
     padding-top: 15px;
     text-align: center;
+    float: right;
 }
 
 .navigation{
-    text-align: right;
     background-color: #000000;
     height: 50px;
     padding-right: 100px;
@@ -29,4 +29,5 @@ h1 {
     color:#FFFFFF;
     display: inline-block;
     float: left;
+    text-align: center;
 }
