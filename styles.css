@@ -24,3 +24,9 @@ h1 {
     display: block;
     padding-top: 25px;
 }
+
+.navigation .logo {
+    color:#FFFFFF;
+    display: inline-block;
+    float: left;
+}
