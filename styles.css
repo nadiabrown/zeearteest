@@ -42,3 +42,8 @@ h1 {
     object-fit: cover;
     margin-top: 17px;
 }
+
+.content{
+    position: relative;
+    top: 350px;
+}
