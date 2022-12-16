@@ -31,3 +31,10 @@ h1 {
     padding: 9px 100px 5px 100px;
     height: 16px;
 }
+
+.banner-image{
+    height: 300px;
+    width: 100vw;
+    object-fit: cover;
+    margin-top: 17px;
+}
