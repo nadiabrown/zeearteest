@@ -32,6 +32,10 @@ h1 {
     height: 16px;
 }
 
+.banner{
+    position: relative;
+}
+
 .banner-image{
     height: 300px;
     width: 100vw;
